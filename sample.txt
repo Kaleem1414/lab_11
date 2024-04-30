@@ -4,3 +4,6 @@ Muhammad Kaleem
 Department SET
 
 2nd semester
+scm
+opp
+sdlc
